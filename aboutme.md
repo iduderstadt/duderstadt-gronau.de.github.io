@@ -21,11 +21,11 @@ seit 2006   Kanzlei Duderstadt und Syndikusrechtsanwältin
 
 ##### Anschrift
 
-RAin Iliana Duderstadt
-Bergmannweg 5
-48599 Gronau (Westf.)
+RAin Iliana Duderstadt  
+Bergmannweg 5  
+48599 Gronau (Westf.)  
 
-T 02562 / 79 79 610
+T 02562 / 9412436  
 iduderstadt@icloud.com
 
 ##### Zulassung
@@ -36,16 +36,16 @@ Ich bin in der Bundesrepublik Deutschland als Rechtsanwältin zugelassen und geh
 
 Es gelten unter anderem folgende berufsrechtliche Regelungen:
 
-BRAO – Bundesrechtsanwaltsordnung
-BORA – Berufsordnung für Rechtsanwälte
-RVG – Rechtsanwaltsvergütungsgesetz
+BRAO – Bundesrechtsanwaltsordnung  
+BORA – Berufsordnung für Rechtsanwälte  
+RVG – Rechtsanwaltsvergütungsgesetz  
 Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft (CCBE)
 
 ##### Berufshaftpflichtversicherung
 
-Dialog Versicherung AG
-Adenauerring 7
-81737 München
+Dialog Versicherung AG  
+Adenauerring 7  
+81737 München  
 
 ##### Außergerichtliche Streitschlichtung
 
@@ -63,11 +63,11 @@ Weitere Einzelheiten zum anwendbaren Berufsrecht in der jeweils geltenden Fassun
 Diese Datenschutz-Information gilt für die Datenverarbeitung durch:
 Verantwortliche:
 
-RAin Iliana Duderstadt
-Bergmannweg 5
-48599 Gronau (Westf.)
+RAin Iliana Duderstadt  
+Bergmannweg 5  
+48599 Gronau (Westf.)  
 
-T 02562 / 79 79 610
+T 02562 / 9412436
 iduderstadt@icloud.com
 
 ##### 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck deren Verwendung
