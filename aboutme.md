@@ -25,8 +25,8 @@ RAin Iliana Duderstadt
 Bergmannweg 5  
 48599 Gronau (Westf.)  
 
-T 02562 / 9412436  
-iduderstadt@icloud.com
+T 02562 / 9412436    
+iduderstadt@icloud.com  
 
 ##### Zulassung
 
@@ -67,8 +67,8 @@ RAin Iliana Duderstadt
 Bergmannweg 5  
 48599 Gronau (Westf.)  
 
-T 02562 / 9412436
-iduderstadt@icloud.com
+T 02562 / 9412436  
+iduderstadt@icloud.com  
 
 ##### 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck deren Verwendung
 a) Wenn Sie die Website besuchen
