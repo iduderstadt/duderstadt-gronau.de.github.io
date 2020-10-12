@@ -14,11 +14,11 @@ author: Iliana Duderstadt
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Über mich"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://duderstadt-gronau.de"
+  Über mich: "Über mich"
+  Kontakt: "Kontakt"
+  Datenschutz: "Datenschutz"
+  Impressum: "Impressum"
+  Home: "https://duderstadt-gronau.de"
 
 # --- Logo --- #
 
