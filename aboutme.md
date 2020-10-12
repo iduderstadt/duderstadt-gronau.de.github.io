@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Über mich
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+seit 2006   Kanzlei Duderstadt und Syndikusrechtsanwältin  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+2001 - 2006 Solicitor, europäische Rechtsanwältin und Rechtsanwältin in der Kanzlei Noerr LLP (vormals Noerr Stiefenhofer Lutz)
 
-What else do you need?
+1999 - 2001 Solicitor in der Kanzlei Freshfields Bruckhaus Deringer LLP 
 
-### My story
+1997 - 1999 Trainee Solicitor in der Kanzlei Freshfields Bruckhaus Deringer LLP  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1995 - 1996 Legal Practice Course, College of Law, London
+
+1992 - 1995 Studium der Rechtswissenschaften, St. John's College, University of Cambridge  
+
+
+
+
