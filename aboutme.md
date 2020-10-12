@@ -28,6 +28,8 @@ Bergmannweg 5
 T 02562 / 9412436    
 iduderstadt@icloud.com  
 
+USt.-IdNr.: _folgt_
+
 ##### Zulassung
 
 Ich bin in der Bundesrepublik Deutschland als Rechtsanwältin zugelassen und gehöre der Rechtsanwaltskammer Hamm an.
