@@ -14,11 +14,11 @@ author: Iliana Duderstadt
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Über mich: "Über mich"
-  Kontakt: "Kontakt"
-  Datenschutz: "Datenschutz"
-  Impressum: "Impressum"
-  Home: "https://duderstadt-gronau.de"
+  About Me: "Über mich"
+  Resources: "Ressourcen"
+  - Datenschutz: "Datenschutz"
+  - Impressum: "Impressum"
+  Author's Home: "https://duderstadt-gronau.de"
 
 # --- Logo --- #
 
